@@ -7,3 +7,7 @@ https://developer.chrome.com/docs/devtools/remote-debugging/
 # Inspect Devices
 
 ![](inspect-devices.png)
+
+# Debug Remotely
+
+![](remote-debug.png)
